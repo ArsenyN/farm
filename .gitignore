@@ -1,0 +1,15 @@
+venv
+.prettierignore
+.idea
+.DS_Store
+*.pyc
+*.session
+.vscode
+.venv/*
+.env
+
+ABC-Emails.sqlite
+emails_list.html
+
+downloaded_files
+-stuff
